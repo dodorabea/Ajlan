@@ -1,0 +1,168 @@
+@charset "utf-8";
+@media only screen and (max-width: 1380px)
+{
+    .video-part-campains .card-body h4 {
+        font-size: 2rem;
+    }
+    .video-part-campains .card-body p {
+        font-size: 0.875rem;
+        padding-right: 0%;
+    }
+}
+@media screen and (max-width: 1300px)
+{
+  
+}
+@media screen and (max-width: 1023px)
+{
+
+   
+}
+@media screen and (max-width: 1330px)
+{
+    .cont-yellow {
+        font-size: 84px;
+        line-height: 83px;
+
+    }
+}
+
+@media only screen and (max-width: 1670px)
+{
+ 
+}
+@media only screen and (max-width: 1600px)
+{
+    footer .list-footer::before
+    {
+        content: unset;
+    }
+}
+
+@media screen and (max-width: 991px)
+{
+    .title-contact h3 {
+        text-align: center;
+    }
+    .video-part-campains::before
+    {
+        height: 35%;
+    }
+    .description-title p.title {
+        font-size: 2.9rem;
+    }
+}
+@media only screen and (max-width:480px) {
+    
+}
+@media only screen and (max-width: 798px)
+{
+    .fay_branding
+    {
+        margin-top: 40px;
+    }
+    .cont {
+        font-size: 17vw;
+        line-height: 1;
+    }
+    .cont-yellow
+    {
+        position: relative;
+    }
+    .cont-yellow span:first-child {
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 768px) {
+   
+}
+
+@media screen and (max-width:1023px)
+{
+    
+}
+@media screen and (max-width: 1450px)
+{
+    .text-part h3 {
+        font-size: 5vw;
+        line-height: 5.5rem;
+        margin-bottom: 20px;
+    }
+    .text-part p
+    {
+        padding-right: 0;
+    }
+}
+@media screen and (max-width: 550px)
+{
+    .fay_branding,.blue_branding,.yellow_branding {
+        padding: 26px 19px 27px 19px;
+        font-size: 1rem;
+        color: #fff;
+        display: block;
+        font-family: 'Roboto';
+        width: 100%;
+    }
+    .contact-section
+    {
+        padding-top: 50px;
+    }
+    .cont {
+        font-size: 21vw;
+        line-height: 1;
+    }
+    .cont {
+        font-size: 17vw;
+        line-height: 5rem;
+    }
+    .cont-yellow {
+        font-size: 58px;
+        line-height: 57px;
+        padding: 8px 0;
+    }
+}
+@media screen and (max-width: 700px)
+{
+   
+    .button_input
+    {
+        padding-right: 0;
+    }
+   .desktop-screen
+   {
+    display: none;
+   }
+   .mobile-nav
+   {
+    display: block;
+   }
+}
+@media screen and (max-width: 1023px)
+{
+    
+}
+@media screen and (max-width: 991px)
+{
+    .text-part h3 {
+        font-size: 6vw;
+        line-height: 3.5rem;
+        margin-bottom: 20px;
+    }
+    .main-div-img
+    {
+        padding: 0;
+        margin: 0;
+    }
+    .text-part h3
+    {
+        margin: 25px 0 10px 0;
+    }
+    .yellow_branding
+    {
+        margin: 0 auto;
+    }
+    .text-part h3 span
+    {
+        display: inline-block;
+    }
+}
